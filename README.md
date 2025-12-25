@@ -25,9 +25,12 @@ I have built a "Grand Slam" portfolio covering 13 projects across 8 major US ind
 
 ---
 
+### 🏆 **Achievements**
+[![Trophy](https://github-profile-trophy.vercel.app/?username=glaubinhofranca-dotcom&theme=flat&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 📊 **GitHub Stats**
-![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaubinhofranca-dotcom&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubinhofranca-dotcom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Glauber's Stats](https://github-readme-stats.vercel.app/api?username=glaubinhofranca-dotcom&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubinhofranca-dotcom&layout=compact&theme=dark&hide_border=true)
 
 ---
 [LinkedIn](https://www.linkedin.com/in/glauberrocha/) • [Email](mailto:glauber.rocha@outlook.com)
