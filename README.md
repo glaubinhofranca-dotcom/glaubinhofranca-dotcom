@@ -25,6 +25,12 @@ I have built a "Grand Slam" portfolio covering 13 projects across 8 major US ind
 
 ---
 
+### 📊 **GitHub Stats**
+[![Glauber's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glaubinhofranca-dotcom&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubinhofranca-dotcom&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🐍 **Contribution Snake**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
