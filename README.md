@@ -11,9 +11,9 @@ I have built a "Grand Slam" portfolio covering 13 projects across 8 major US ind
 **[👉 Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom)**
 
 **Top 3 Featured Projects:**
-1.  🤖 **[FinBot (GenAI Agent)](./LINK_PARA_FINBOT):** A Chatbot that reads Wall Street 10-K Reports using RAG & OpenAI.
-2.  📦 **[Supply Chain Tower](./LINK_PARA_SUPPLY):** Inventory optimization saving $690M in risk.
-3.  📈 **[Quant Finance](./LINK_PARA_FINANCE):** Markowitz Portfolio Optimization & Credit Risk.
+1.  🤖 **[FinBot (GenAI Agent)](https://github.com/glaubinhofranca-dotcom/00_GenAI_Financial_Analyst):** A Chatbot that reads Wall Street 10-K Reports using RAG & OpenAI.
+2.  📦 **[Supply Chain Tower](https://github.com/glaubinhofranca-dotcom/07_SupplyChain_Inventory_Control_Tower):** Inventory optimization saving $690M in risk.
+3.  📈 **[Quant Finance](https://github.com/glaubinhofranca-dotcom/01_Finance_Quant_Portfolio_Optimization):** Markowitz Portfolio Optimization & Credit Risk.
 
 ---
 
