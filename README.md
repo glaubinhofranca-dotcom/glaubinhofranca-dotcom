@@ -8,7 +8,7 @@ Currently focused on building **RAG Applications** and **Autonomous Agents** for
 
 ### 🚀 **My Flagship Portfolio**
 I have built an extensive **"Grand Slam" portfolio** covering multiple strategic projects across major US industries.
-**[👉 Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
+**👉 [Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
 
 **Top 3 Featured Projects:**
 1.  🤖 **[FinBot (GenAI Agent)](https://github.com/glaubinhofranca-dotcom/data-science-portfolio/tree/main/00_GenAI_Financial_Analyst):** A Chatbot that reads Wall Street 10-K Reports using RAG & OpenAI.
