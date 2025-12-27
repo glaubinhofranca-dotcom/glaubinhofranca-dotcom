@@ -8,7 +8,7 @@ Currently focused on building **Multi-Agent Systems** and **RAG Applications** f
 
 ### 🚀 **My Flagship Portfolio**
 I have built an extensive **"Grand Slam" portfolio** covering multiple strategic projects across major US industries.
-**[👉 Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
+**👉 [Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
 
 **Top 3 AI Engineering Projects:**
 1.  🕵️‍♂️ **[Multi-Agent Research Team](https://github.com/glaubinhofranca-dotcom/15_Multi_Agent_Market_Research):** An autonomous squad of AI Agents (CrewAI) that performs Equity Research and writes investment reports.
