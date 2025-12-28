@@ -1,8 +1,8 @@
 # Hi there, I'm Glauber! 👋
-### Senior Data Professional | GenAI, Finance & Strategy
+### Senior Data Professional | GenAI, Computer Vision & Strategy
 
-I transform complex data into strategic decisions using **Python**, **Autonomous AI Agents**, and **Advanced Analytics**.
-Currently focused on building **Multi-Agent Systems** and **Real-Time Data Architectures** for the Financial Sector.
+I transform complex data (**Text, Tables & Images**) into strategic decisions using **Python**, **Autonomous AI Agents**, and **Advanced Analytics**.
+Currently focused on building **Multi-Agent Systems**, **Computer Vision Models**, and **Real-Time Data Architectures** for the Financial and Insurance sectors.
 
 ---
 
@@ -10,19 +10,19 @@ Currently focused on building **Multi-Agent Systems** and **Real-Time Data Archi
 I have built an extensive **"Grand Slam" portfolio** covering multiple strategic projects across major US industries.
 **👉 [Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
 
-**Top 3 Engineering Projects:**
+**Top 3 Featured Projects:**
 1.  🕵️‍♂️ **[Multi-Agent Research Team](https://github.com/glaubinhofranca-dotcom/15_Multi_Agent_Market_Research):** An autonomous squad of AI Agents (CrewAI) that performs Equity Research and writes investment reports.
-2.  📉 **[Real-Time Crypto Monitor (Kafka)](https://github.com/glaubinhofranca-dotcom/16_RealTime_Crypto_Monitor):** A streaming pipeline utilizing Apache Kafka, Docker, and Power BI to visualize high-frequency market data in real-time.
-3.  🤖 **[FinBot (GenAI Agent)](https://github.com/glaubinhofranca-dotcom/00_GenAI_Financial_Analyst):** A Financial Analyst Chatbot that reads Wall Street 10-K Reports using RAG & OpenAI.
+2.  👁️ **[Auto Insurance AI (Computer Vision)](https://github.com/glaubinhofranca-dotcom/17_ComputerVision_AutoInsurance):** An automated claims processor using **YOLOv8** to detect vehicle damage and estimate severity in <1 second.
+3.  📉 **[Real-Time Crypto Monitor (Kafka)](https://github.com/glaubinhofranca-dotcom/16_RealTime_Crypto_Monitor):** A streaming pipeline utilizing Apache Kafka and Power BI to visualize high-frequency market data (Candlesticks) in real-time.
 
 ---
 
 ### 🛠️ **Tech Stack**
 * **Languages:** Python, SQL, DAX.
-* **AI & LLM:** OpenAI API, LangChain, CrewAI, FAISS, Ollama.
-* **Engineering:** Docker, Apache Kafka, PostgreSQL.
-* **Vis:** Power BI (DirectQuery), Streamlit.
-* **Domain:** Finance, Healthcare, SaaS, Supply Chain.
+* **AI & Computer Vision:** OpenAI API, LangChain, CrewAI, **YOLOv8**, **OpenCV**, FAISS.
+* **Engineering:** Docker, Apache Kafka, PostgreSQL, **Google Colab**.
+* **Visualization:** Power BI (DirectQuery), Streamlit.
+* **Domain:** Finance, **InsurTech**, Healthcare, SaaS, Supply Chain.
 
 ---
 
