@@ -19,7 +19,7 @@ I have built an extensive **"Grand Slam" portfolio** covering multiple strategic
 
 ### 🛠️ **Tech Stack**
 * **Languages:** Python, SQL, DAX.
-* **AI & Computer Vision:** OpenAI API, LangChain, CrewAI, **YOLOv8**, **OpenCV**, FAISS.
+* **AI & Computer Vision:** OpenAI API, LangChain, CrewAI, **YOLOv8**, **OpenCV**, **Llama-3 (Local LLMs)**, FAISS.
 * **Engineering:** Docker, Apache Kafka, PostgreSQL, **Google Colab**.
 * **Visualization:** Power BI (DirectQuery), Streamlit.
 * **Domain:** Finance, **InsurTech**, Healthcare, SaaS, Supply Chain.
