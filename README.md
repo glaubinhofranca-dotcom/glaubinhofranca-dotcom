@@ -11,8 +11,11 @@ I have built an extensive **"Grand Slam" portfolio** covering multiple strategic
 **👉 [Click here to access my full Data Science Portfolio](https://github.com/glaubinhofranca-dotcom/data-science-portfolio)**
 
 **Top 3 Featured Projects:**
+
 1.  ⚡ **[Real-Time AI Trader (Kafka + Llama-3)](https://github.com/glaubinhofranca-dotcom/20_RealTime_Llama_Kafka):** An event-driven architecture that streams financial news via **Apache Kafka** and uses a local **Llama-3** model to make split-second trading decisions.
+
 2.  🕸️ **[AML Graph Fraud Detector](https://github.com/glaubinhofranca-dotcom/21_AML_Graph_Fraud_Detection):** A forensic tool using **NetworkX** and **Unsupervised Learning** (Isolation Forest) to detect complex money laundering rings (Smurfing) in transaction networks.
+
 3.  👁️ **[Auto Insurance AI (Computer Vision)](https://github.com/glaubinhofranca-dotcom/17_ComputerVision_AutoInsurance):** An automated claims processor using **YOLOv8** to detect vehicle damage and estimate severity in <1 second.
 
 ---
