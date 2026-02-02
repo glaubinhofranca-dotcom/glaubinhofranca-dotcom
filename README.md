@@ -12,7 +12,7 @@ I have built an extensive **"Grand Slam" portfolio** covering multiple strategic
 
 **Top 3 Featured Projects:**
 
-1.  🏗️ **[Modern Data Stack Lakehouse](https://github.com/glaubinhofranca-dotcom/modern-data-stack-lakehouse):** A complete local Lakehouse platform using **Docker**, **Apache Airflow**, **MinIO** (S3), and **Postgres**. Orchestrates ELT pipelines to ingest raw data and deliver Gold-layer analytics to **Power BI**.
+1.  🏗️ **[Modern Data Stack Lakehouse](https://github.com/glaubinhofranca-dotcom/23_Modern_Data_Stack_Airflow):** A complete local Lakehouse platform using **Docker**, **Apache Airflow**, **MinIO** (S3), and **Postgres**. Orchestrates ELT pipelines to ingest raw data and deliver Gold-layer analytics to **Power BI**.
 
 2.  ⚡ **[Real-Time AI Trader (Kafka + Llama-3)](https://github.com/glaubinhofranca-dotcom/20_RealTime_Llama_Kafka):** An event-driven architecture that streams financial news via **Apache Kafka** and uses a local **Llama-3** model to make split-second trading decisions.
 
